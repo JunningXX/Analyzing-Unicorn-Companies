@@ -42,10 +42,3 @@ The analysis is built on a relational database containing over 1,000 unicorn com
 * **Mathematical & Statistical Aggregation:** Calculating exact medians and quartiles using `PERCENTILE_CONT()`, while managing SQL type constraints and integer division.
 * **Conditional Business Logic:** Deploying nested `CASE` statements to programmatically categorize numerical ratios into qualitative business tiers.
 * **Query Optimization:** Structuring highly complex queries using modular Common Table Expressions (CTEs) for readable, maintainable production-level code.
-
-## 🚀 How to View the Project
-1. Open the [Jupyter Notebook](link-to-your-notebook.ipynb) to view the complete SQL code, table outputs, and in-depth business analysis.
-2. The raw dataset (if applicable/allowed) is located in the `data/` folder.
-
----
-*Created by [Your Name] - Connect with me on [LinkedIn](Link) or view my other projects on [GitHub](Link).*
